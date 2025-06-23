@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "bstrp:SQI",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bstrp:SQI"
+	}
+}

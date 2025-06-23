@@ -1,0 +1,277 @@
+.one{
+    margin-left: 23%;
+}
+.two{
+    margin-left: 16%;
+
+}
+
+.three{
+    color: #091342;
+    font-size: 15px;
+}
+.ull{
+    width:250px;
+    padding: 10px;
+    display: none;
+    
+   
+  }
+    
+  .four:hover + .ull {
+    display: block;
+    margin: 20px 10px 0;
+    border-top: 3px solid rgb(3, 3, 44);
+    border-radius: 1px;
+  }
+ 
+  .five{
+    background-color: #fefdf4;
+  }
+  .six{
+    font-size: 60px;
+    color: #0a1a65;
+    margin-top: 10%;
+   
+    
+  }
+  .seven{
+    background-color: #162ea4; ;
+    border-radius: 10px;
+    padding: 15px;
+    width: 120px;
+    color: white;
+    border: none;
+  }
+  .eight{
+    margin-top:20%;
+    padding: 20px;
+   
+  }
+  .fix{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
+  .nine{
+   padding: 20px;
+   margin-top: 10%;
+  
+  }
+  .ten{
+   
+    font-size: 40px;
+    color: #0a1a65;
+  }
+
+  .tog{
+    width: 550px;
+  }
+  .pent{
+    filter: grayscale(100%);
+    width: 120px;
+  }
+
+  .rag{
+   
+    margin-top: 3%;
+  }
+
+.ragg{
+
+border-bottom: 3px solid black;
+
+}
+.raag{
+   
+    margin-top: 5%;
+  }
+  .rrag{
+    
+    color:#2ca3f2
+    }
+
+.dag{
+   border-radius: 10px;
+   margin-left: 2%;
+
+}
+.ccard{ 
+       border-radius: 20px;
+       background-color: #d6eaf3;
+       box-shadow: 10px 20px 20px 20px #e0eee1;
+}
+.caard{ 
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: #eeefbd;
+    box-shadow: 0px 1px 50px 5px  #ffe0da;
+}
+.cadd{
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: #e0d4c0;
+    box-shadow: 10px 20px 20px 20px #e0eee1;
+}
+.cardd{
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: #dfd4e8;
+    box-shadow: 20px 10px 50px 5px  #ffe0da;;
+
+}
+
+
+.togg{
+    width: 350px;
+}
+.disc{
+    background-image: url(image/DSC_9054-scaled.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+    background-color: #091342;
+    margin-top: 10%;
+}
+
+.dagg{
+    border-radius: 20px;
+    margin-top: 15%;
+   
+ 
+ }
+ .ddag{
+   font-size: 60px;
+    margin-top: 15%;
+ }
+
+ .round{
+    border-radius: 50%;
+    width: 70px;
+ }
+.next{
+    background-color: #091342;
+}
+.next2{
+    background-color: #081d7d;
+}
+.colr{
+    color: white;
+}
+.colr2{
+    color: rgb(196, 140, 11);
+}
+.colr3{
+   
+     border: 1px solid rgb(253, 196, 63);
+}
+.botn{
+    background-color: #132fb7; ;
+    border-radius: 30px;
+    padding: 15px;
+    width: 120px;
+    color: white;
+    border: none;
+    margin-bottom: 10%;
+    
+}
+.back1{
+    background-image: url(image/SQI_8351.jpg) ;
+    background-position: top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: none;
+    background-color: #f6f6f6;
+    
+}
+.back2{
+    background-image: url(image/Java-engineers.jpg) ;
+    background-position: top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+    border-radius: 10px;
+    border: none;
+    background-color: #f6f6f6;
+    
+}
+.back3{
+    background-image: url(image/WhatsApp-Image-2025-02-18-at-15.35.16_a7626ca6.jpg) ;
+    background-position: top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: none;
+    background-color: #f6f6f6;
+    
+}
+.botn2{
+    margin-top: 75%;
+}
+
+.foot{
+  background-color: #050044;
+}
+
+.gog{
+  width: 60px;
+}
+.gogg{
+  width: 20px;
+  border-radius: 100%;
+}
+
+
+.bot{
+  background-color: #2c6fe9;
+  border-radius: 20px;
+  border: none;
+  color: wheat;
+  width: 150px;
+}
+.scrol{
+  width: 250px;
+  height: 100px;
+  border: 1px solid black;
+  overflow: scroll;
+  border: none;
+}
+
+.colorrr{
+  background-color: #fafafa;
+}
+.collor{
+  color: #2c6fe9;
+}
+
+
+  @media (max-width:576px){
+    .tog .back3 .back2 .backi{
+        width: 120px;
+    }
+    .six{
+        font-size: 30px;
+    }
+    .togg{
+        width: 120px;
+    }
+  }
+
+  @media (min-width:577px){
+    .tog{
+        width: 115px;
+    }
+  }
+
+  @media (min-width:768px){
+    .six{
+        font-size: 30px;
+    }
+    .tog{
+        width: 250px;
+    }
+  }
